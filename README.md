@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dzmitry Drevich 👋</h1>
-<p align="center">🎯 Junior Frontend Developer | UI Developer | Former BIM/CAD Engineer</p>
+<p align="center">🎯 Junior Frontend Developer | UI Developer
 
 <p align="center"><strong>💼 Open to junior frontend roles, internships, and collaborative web projects!</strong></p>
 
@@ -7,8 +7,9 @@
 
 ### 🚀 About Me
 
-I'm a junior frontend developer with an engineering background (BIM/CAD), passionate about building responsive and user-focused web applications.  
-I enjoy working with modern technologies like **React**, **TypeScript**, and **Tailwind CSS**, and continuously strive to improve code quality and user experience.
+I'm a junior frontend developer with an engineering background (BIM/CAD), passionate about building responsive and user-focused web applications.
+I enjoy working with modern frontend tools and continuously strive to improve both code quality and user experience.
+Currently, I'm deepening my skills in React, TypeScript, and other technologies I’ve already applied in a real-world team project — building an e-commerce SPA.
 
 ---
 
