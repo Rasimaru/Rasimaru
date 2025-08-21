@@ -52,7 +52,7 @@ SPA • REST APIs • Component-based architecture • Client-side routing • S
 #### 🛒 StepUp – E-commerce SPA  
 Final team project for The Rolling Scopes School Frontend Course  
 Built with composable architecture on Commercetools  
-🌐 [Live Demo](https://step-up-e-commerce.vercel.app) • 💻 [GitHub](https://github.com/yevheniirohiantsyi/StepUp-eCommerce)
+🌐 [Live Demo](https://step-up-e-commerce.vercel.app) • 💻 [GitHub](https://github.com/yevheniiorhanistyi/StepUp-eCommerce)
 
 **Key Features:**
 - User authentication, profile management, product catalog, cart logic
